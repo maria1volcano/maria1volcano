@@ -1,7 +1,7 @@
 
 # Omama Mrabet
 
-**Computer Engineering Student | Frontend & AI Builder**
+**Software Engineer | Full stack developper & AI builder**
 
 [GitHub](https://github.com/maria1volcano) | [LinkedIn](https://www.linkedin.com/in/omama-m-1759972b3?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
