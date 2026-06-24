@@ -1,4 +1,4 @@
-```md
+
 # Omama Mrabet
 
 **Computer Engineering Student | Frontend & AI Builder**
