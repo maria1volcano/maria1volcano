@@ -25,22 +25,23 @@ Computer engineering student at ENSICAEN with a strong interest in AI-powered pr
 - Collaborated with teammates working on backend and AI systems to turn ideas into functional MVPs.
 - Built and pitched projects with startup potential, combining technical implementation with real-world use cases.
 
-## Selected Projects
+## Projects
 
-### Valora — AI Memory Companion
+### Mythos 6 - RAISE summit hackathon
 
-A Slack-based AI memory companion designed to support people experiencing memory loss by helping them reconnect with personal context, memories, and daily interactions.
+Developed an AI-powered GPU cluster operations platform that detects infrastructure risks, explains incidents through voice alerts, and recommends mitigation actions in real time. Led the frontend and UX development, creating an intuitive 3D monitoring dashboard and transparent decision log for cluster operators.
+- Real-time GPU cluster monitoring
+- AI detection of infrastructure risks
+- Voice alerts explaining incidents clearly
+- Intelligent mitigation recommendations
+- Interactive 3D cluster visualization
+- Human approval and transparent decision log
 
-- Built around the idea of reducing awkward and painful moments caused by memory gaps.
-- Includes sections for calls, personal history, memories, and a dashboard.
-- Uses AI to make stored memories easier to access and interact with.
-- Designed for the **Slack Agents for Good** track with a focus on emotional and social impact.
-
-### World Cup 2026 Prediction Dashboard
+### World Cup 2026 Prediction Dashboard (on going)
 
 A dynamic football prediction platform for the 2026 World Cup, built around evolving tournament predictions and live result updates.
 
-- Compares initial predictions with updated tournament realities.
+- Compares initial predictions with updated tournament realities (on going).
 - Updates predictions based on real match results and changing knockout rounds.
 - Includes World Cup-inspired UI elements such as flags, dynamic visuals, and football-themed interactions.
 - Planned features include live scores, prediction evolution, and a meme section inspired by football culture on social media.
