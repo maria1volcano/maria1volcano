@@ -1,5 +1,5 @@
 
-# Omama Mrabet
+# Omama 
 
 **Software Engineer | Full stack developper & AI builder**
 
