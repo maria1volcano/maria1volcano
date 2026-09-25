@@ -1,14 +1,17 @@
 
 # Omama 
 
-**Software Engineer | Full stack developper & AI builder**
+**Engineering Student | Cybersecurity & AI**
 
 [GitHub](https://github.com/maria1volcano) | [LinkedIn](https://www.linkedin.com/in/omama-m-1759972b3?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
-Computer engineering student at ENSICAEN with a strong interest in AI-powered products, frontend development, UI/UX, and startup-oriented hackathon projects. I enjoy building practical applications that combine clean interfaces, intelligent systems, and real user needs.
+Computer engineering student at ENSICAEN with a strong interest in AI, cybersecurity, and autonomous systems.
+I enjoy building and experimenting with AI-powered systems, especially multi-agent applications and autonomous agents.
+I'm increasingly interested in understanding how intelligent systems can adapt, evolve, and develop strategies in open-ended environments.
+Beyond coursework, I love hackathons, research, and turning ideas into working projects. 
 
 ## Skills
-
+**Mathematics:** Linear Algebra, Probability, Statistics, Calculus, Optimization, Graph Theory
 **Frontend:** React, Next.js, TypeScript, Tailwind CSS, UI/UX Design  
 **AI/ML:** AI agents, multimodal AI, RAG concepts, prompt engineering, applied AI workflows  
 **Backend:** Python, FastAPI, REST APIs, Supabase, SQLite  
@@ -55,14 +58,11 @@ A dynamic football prediction platform for the 2026 World Cup, built around evol
 
 Currently studying computer engineering with interests in software development, artificial intelligence, cybersecurity, and product-oriented engineering.
 
-## Interests
-
-- AI products with real-world impact
-- Frontend engineering and UI/UX
-- Startups and hackathons
-- Cybersecurity and AI safety
-- Travel technology
-- Creative coding and visual interfaces
+## Research Interests
+- **Autonomous & Multi-Agent Systems:** Exploring how AI agents can collaborate, reason, and adapt in dynamic environments.
+- **Evolutionary & Adaptive AI:** Studying how evolutionary processes can drive agents to discover diverse and robust strategies beyond fixed training objectives.
+- **AI Security:** Exploring the intersection of AI and cybersecurity, particularly adversarial adaptation, robust agents, and automated red-teaming.
+- **Open-Ended & Self-Improving AI:** Interested in systems that can continuously discover new behaviors, strategies, and capabilities rather than optimizing toward a fixed objective.
 
 ## Currently
 
