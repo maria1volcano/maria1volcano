@@ -7,7 +7,9 @@
 ## 👩‍💻About me
 I am a computer engineering student with a strong interest in AI, cybersecurity, and autonomous systems.
 I enjoy building and experimenting with AI-powered systems, especially multi-agent applications and autonomous agents.
+
 I'm increasingly interested in understanding how intelligent systems can adapt, evolve, and develop strategies in open-ended environments.
+
 Beyond coursework, I love hackathons, research, and turning ideas into working projects. 
 
 ## 🛠️ Skills
