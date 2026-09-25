@@ -4,13 +4,13 @@
 **Engineering Student | Cybersecurity & AI**
 
 [GitHub](https://github.com/maria1volcano) | [LinkedIn](https://www.linkedin.com/in/omama-m-1759972b3?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
-
+## 👩‍💻About me
 Computer engineering student at ENSICAEN with a strong interest in AI, cybersecurity, and autonomous systems.
 I enjoy building and experimenting with AI-powered systems, especially multi-agent applications and autonomous agents.
 I'm increasingly interested in understanding how intelligent systems can adapt, evolve, and develop strategies in open-ended environments.
 Beyond coursework, I love hackathons, research, and turning ideas into working projects. 
 
-## Skills
+## 🛠️ Skills
 **Mathematics:** Linear Algebra, Probability, Statistics, Calculus, Optimization, Graph Theory
 
 **Frontend:** React, Next.js, TypeScript, Tailwind CSS, UI/UX Design  
@@ -29,7 +29,7 @@ Beyond coursework, I love hackathons, research, and turning ideas into working p
 - Collaborated with teammates working on backend and AI systems to turn ideas into functional MVPs.
 - Built and pitched projects with startup potential, combining technical implementation with real-world use cases.
 
-## Projects
+## 💻 Projects
 
 ### Mythos 6 - RAISE summit hackathon
 
@@ -59,7 +59,7 @@ A dynamic football prediction platform for the 2026 World Cup, built around evol
 
 Currently studying computer engineering with interests in software development, artificial intelligence, cybersecurity, and product-oriented engineering.
 
-## Research Interests
+## 🧠 Research Interests
 - **Autonomous & Multi-Agent Systems:** Exploring how AI agents can collaborate, reason, and adapt in dynamic environments.
 - **Evolutionary & Adaptive AI:** Studying how evolutionary processes can drive agents to discover diverse and robust strategies beyond fixed training objectives.
 - **AI Security:** Exploring the intersection of AI and cybersecurity, particularly adversarial adaptation, robust agents, and automated red-teaming.
