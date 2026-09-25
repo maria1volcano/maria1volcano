@@ -12,6 +12,7 @@ Beyond coursework, I love hackathons, research, and turning ideas into working p
 
 ## 🛠️ Skills
 **Mathematics:** Linear Algebra, Probability, Statistics, Calculus, Optimization, Graph Theory
+
 **Frontend:** React, Next.js, TypeScript, Tailwind CSS, UI/UX Design  
 **AI/ML:** AI agents, multimodal AI, RAG concepts, prompt engineering, applied AI workflows  
 **Backend:** Python, FastAPI, REST APIs, Supabase, SQLite  
