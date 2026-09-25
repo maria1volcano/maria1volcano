@@ -5,14 +5,13 @@
 
 [GitHub](https://github.com/maria1volcano) | [LinkedIn](https://www.linkedin.com/in/omama-m-1759972b3?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 ## 👩‍💻About me
-Computer engineering student at ENSICAEN with a strong interest in AI, cybersecurity, and autonomous systems.
+I am a computer engineering student with a strong interest in AI, cybersecurity, and autonomous systems.
 I enjoy building and experimenting with AI-powered systems, especially multi-agent applications and autonomous agents.
 I'm increasingly interested in understanding how intelligent systems can adapt, evolve, and develop strategies in open-ended environments.
 Beyond coursework, I love hackathons, research, and turning ideas into working projects. 
 
 ## 🛠️ Skills
 **Mathematics:** Linear Algebra, Probability, Statistics, Calculus, Optimization, Graph Theory
-
 **Frontend:** React, Next.js, TypeScript, Tailwind CSS, UI/UX Design  
 **AI/ML:** AI agents, multimodal AI, RAG concepts, prompt engineering, applied AI workflows  
 **Backend:** Python, FastAPI, REST APIs, Supabase, SQLite  
